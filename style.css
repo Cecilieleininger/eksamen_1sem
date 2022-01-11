@@ -23,7 +23,12 @@ a:hover {
     color:black;
 }
 
+/* ---------- index/forside ------- */
 
+.splash{
+
+    margin-top: 20px;
+}
 
 /* ------ tema 2 responsive v2---------------- */
 
@@ -40,12 +45,6 @@ a:hover {
     gap: 20px;
     padding: 100px;
 
-}
-
-/* ------- billeder sjov form runde cirkler ---------- */
-.forside {
-clip-path: circle(50% at 50% 50%);
-aspect-ratio: 300/300;
 }
 
 /* -------- splash billede ------------- */
@@ -173,6 +172,9 @@ p {
     gap: 40px;
 }
 
+.survey {
+    padding: 35px;
+}
 
 /* ----- tema 4 prototype ---------- */
 
